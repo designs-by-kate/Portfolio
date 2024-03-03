@@ -2,16 +2,16 @@
     {
         "role": "PROGRAMMING",
         "organization": "Bootcamp edX",
-        "startDate": "2020",
-        "endDate": "2021",
+        "startDate": "2023",
+        "endDate": "2024",
         "experiences": ["HTML", "CSS, BOOTSTRAP", "JS, jQuery", "React", "Node", "API"],
         "imageSrc": "history/programming.jpg"
     },
     {
         "role": "DESIGNING",
         "organization": "Open University",
-        "startDate": "2020",
-        "endDate": "2021",
+        "startDate": "2021",
+        "endDate": "2024",
         "experiences": ["Creativity", "Problem Framing", "Problem Solving", "Innovative Thinking", "GIMP", "Blender"],
         "imageSrc": "history/design.jpg"
     },
@@ -26,24 +26,24 @@
     {
         "role": "COOKING",
         "organization": "Care Home",
-        "startDate": "2017",
-        "endDate": "2015",
+        "startDate": "2015",
+        "endDate": "2017",
         "experiences": ["Organization", "Creativity", "Leadership", "TeamWork", "Time Management", "Attention to Detail"],
         "imageSrc": "history/cooking.jpg"
     },
     {
         "role": "MATERNITY",
         "organization": "Family",
-        "startDate": "2015",
-        "endDate": "2008",
+        "startDate": "2008",
+        "endDate": "2015",
         "experiences": ["Time Management", "Prioritization", "Adaptability and Flexibility", "Multitasking and Efficiency", "Conflict Resolution", "Empathy"],
         "imageSrc": "history/maternity.jpg"
     },
     {
         "role": "DIETITIAN",
         "organization": "Freelance",
-        "startDate": "2016",
-        "endDate": "2008",
+        "startDate": "2008",
+        "endDate": "2016",
         "experiences": ["Effective Communication", "Training and Education", "Client Interaction", "Data Analysis", "Health Promotion", "Collaboration"],
         "imageSrc": "history/dietitian.jpg"
     }
