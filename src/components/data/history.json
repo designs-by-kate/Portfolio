@@ -1,0 +1,26 @@
+[
+    {
+        "role": "Software Engineer",
+        "organization": "Google",
+        "startDate": "2020",
+        "endDate": "2021",
+        "experiences": ["worked on this", "worked on that"],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Software Engineer",
+        "organization": "Google",
+        "startDate": "2020",
+        "endDate": "2021",
+        "experiences": ["worked on this", "worked on that"],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Software Engineer",
+        "organization": "Google",
+        "startDate": "2020",
+        "endDate": "2021",
+        "experiences": ["worked on this", "worked on that"],
+        "imageSrc": "history/google.png"
+    }
+]
