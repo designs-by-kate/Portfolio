@@ -46,6 +46,10 @@
   letter-spacing: 1.5px;
 }
 
+.link a:hover {
+  color: var(--color-bg);
+}
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
@@ -58,7 +62,16 @@
     align-items: center;
   }
 
+  .text p {
+    font-size: 26px;
+    color: var(--color-bg);
+  }
+
   .links {
-    align-items: center;
+    align-items: left;
+  }
+
+  .link a {
+    font-size: 18px;
   }
 }

@@ -8,7 +8,7 @@
 }
 
 .title {
-  color: var(--color-text);
+  color: var(--color-primary);
   font-size: 35px;
   font-weight: 700;
   letter-spacing: 1.75px;
@@ -22,60 +22,33 @@
   margin-top: 14px;
 }
 
-.skills {
-  width: 45%;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 37px;
-}
-
-.skill {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 11px;
-}
-
-.skillImageContainer {
-  background-color: var(--color-secondary);
-  border-radius: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 120px;
-  height: 120px;
-}
-
-.skillImageContainer img {
-  width: 75px;
-}
-
-.skill p {
-  font-size: 25px;
-  font-family: var(--font-roboto);
-  font-weight: 500;
-}
 
 .history {
-  width: 45%;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
   gap: 40px;
 }
 
 .historyItem {
+  width: 48%;
+  height: 300px;
   display: flex;
   flex-direction: row;
   align-items: center;
   gap: 17px;
-  background: #19376d;
-  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+  background: #071b08;
+  background: linear-gradient(90deg, #427c26 0%, rgba(2, 19, 5, 0) 100%);
   border-radius: 10px;
   padding: 24px;
 }
 
-.historyItem img {
-  width: 50px;
+.historyItemImg {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 3px solid var(--color-primary)
 }
 
 .historyItemDetails {
@@ -83,38 +56,76 @@
 }
 
 .historyItemDetails h3 {
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.historyItemDetails h2 {
+  color: var(--color-primary);
   font-size: 30px;
   font-weight: 500;
 }
 
 .historyItemDetails p {
+  color: var(--color-bg);
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 600;
 }
 
 .historyItemDetails ul {
   margin-top: 6px;
   list-style-position: inside;
-  font-size: 25px;
+  font-size: 20px;
   list-style-type: disc;
   margin-left: 17px;
 }
 
 @media screen and (max-width: 830px) {
+  .container {
+    text-align: center;
+  }
+
   .content {
     flex-direction: column;
     align-items: center;
     gap: 34px;
   }
 
-  .skills {
-    width: 100%;
-    flex-direction: row;
-    justify-content: center;
-  }
-
   .history {
     width: 100%;
     gap: 9px;
   }
+
+  .historyItem {
+    width: 100%;
+    height: 400px;
+    gap: 9px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .historyItemImg {
+    width: 100px;
+    height: 100px;
+  }
+
+  .historyItemDetails h3 {
+    font-size: 28px;
+    font-weight: 500;
+  }
+  
+  .historyItemDetails p {
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  .historyItemDetails ul {
+    margin-top: 6px;
+    list-style-position: inside;
+    font-size: 15px;
+    list-style-type: disc;
+    margin-left: 17px;
+  }
+  
 }
