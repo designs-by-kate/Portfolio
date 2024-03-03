@@ -1,26 +1,50 @@
 [
     {
-        "role": "Software Engineer",
-        "organization": "Google",
+        "role": "PROGRAMMING",
+        "organization": "Bootcamp edX",
         "startDate": "2020",
         "endDate": "2021",
-        "experiences": ["worked on this", "worked on that"],
-        "imageSrc": "history/google.png"
+        "experiences": ["HTML", "CSS, BOOTSTRAP", "JS, jQuery", "React", "Node", "API"],
+        "imageSrc": "history/programming.jpg"
     },
     {
-        "role": "Software Engineer",
-        "organization": "Google",
+        "role": "DESIGNING",
+        "organization": "Open University",
         "startDate": "2020",
         "endDate": "2021",
-        "experiences": ["worked on this", "worked on that"],
-        "imageSrc": "history/google.png"
+        "experiences": ["Creativity", "Problem Framing", "Problem Solving", "Innovative Thinking", "GIMP", "Blender"],
+        "imageSrc": "history/design.jpg"
     },
     {
-        "role": "Software Engineer",
-        "organization": "Google",
-        "startDate": "2020",
-        "endDate": "2021",
-        "experiences": ["worked on this", "worked on that"],
-        "imageSrc": "history/google.png"
+        "role": "DENTISTRY",
+        "organization": "Dental Practice",
+        "startDate": "2017",
+        "endDate": "2023",
+        "experiences": ["Communication", "Teamwork", "Organization", "Training and Mentoring", "Coordination", "Management"],
+        "imageSrc": "history/dentistry.jpg"
+    },
+    {
+        "role": "COOKING",
+        "organization": "Care Home",
+        "startDate": "2017",
+        "endDate": "2015",
+        "experiences": ["Organization", "Creativity", "Leadership", "TeamWork", "Time Management", "Attention to Detail"],
+        "imageSrc": "history/cooking.jpg"
+    },
+    {
+        "role": "MATERNITY",
+        "organization": "Family",
+        "startDate": "2015",
+        "endDate": "2008",
+        "experiences": ["Time Management", "Prioritization", "Adaptability and Flexibility", "Multitasking and Efficiency", "Conflict Resolution", "Empathy"],
+        "imageSrc": "history/maternity.jpg"
+    },
+    {
+        "role": "DIETITIAN",
+        "organization": "Freelance",
+        "startDate": "2016",
+        "endDate": "2008",
+        "experiences": ["Effective Communication", "Training and Education", "Client Interaction", "Data Analysis", "Health Promotion", "Collaboration"],
+        "imageSrc": "history/dietitian.jpg"
     }
 ]

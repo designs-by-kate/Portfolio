@@ -15,32 +15,29 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img src={getImageUrl("about/edx.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Bootcamp edX</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                Front-End Web Development
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img src={getImageUrl("about/ou.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Open University</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              Diploma of Higher Education Diploma of Higher Education in Computing & IT and Design
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
+            <img src={getImageUrl("about/up.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>University of Life Sciences</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+              Bachelor of Science Food Technology and Human Nutrition (Major in Dietetics)
               </p>
             </div>
           </li>
