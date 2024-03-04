@@ -3,8 +3,8 @@ import { NavLink } from 'react-router-dom';
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
-import closeIcon from "../../../assets/nav/closeIcon.png"
-import menuIcon from "../../../assets/nav/menuIcon.png"
+import closeIcon from "../../assets/nav/closeIcon.png"
+import menuIcon from "../../assets/nav/menuIcon.png"
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
