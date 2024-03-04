@@ -15,15 +15,7 @@ export const Navbar = () => {
           alt="Logo"
         />
         <a className={styles.title} href="/">
-          <NavLink
-            to="/"
-            end
-            className={({ isActive }) =>
-              isActive ? 'nav-link active' : 'nav-link'
-            }
-          >
-            Portfolio
-          </NavLink>
+          Portfolio
         </a>
       </div>
       <div className={styles.menu}>
@@ -31,7 +23,7 @@ export const Navbar = () => {
           className={styles.menuBtn}
           src={
             menuOpen
-              ? getImageUrl("nav/menuIcon.png")
+              ? getImageUrl("nav/closeIcon.png")
               : getImageUrl("nav/menuIcon.png")
           }
           alt="menu-button"
