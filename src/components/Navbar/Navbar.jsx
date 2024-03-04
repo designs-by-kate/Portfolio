@@ -19,7 +19,7 @@ export const Navbar = () => {
           src={getImageUrl("nav/LogoGreen.png")}
           alt="Logo"
         />
-        <a className={styles.title} href="/Portfolio">
+        <a className={styles.title} href="/Portfolio/">
           Portfolio
         </a>
       </div>
