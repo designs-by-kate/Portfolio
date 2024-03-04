@@ -1,14 +1,19 @@
 @import "../../vars.css";
 
 .navbar {
-  position: relative;
+  position: fixed; /* Set the navbar to be fixed */
+  top: 0; /* Stick it to the top of the page */
+  left: 0; /* Optionally, align it to the left */
+  width: 100%; /* Make it full-width */
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-top: 61px;
+  padding: 20px;
   z-index: 2;
-  margin: 0 10%;
+  background-color: var(--color-bg);
+  box-shadow: 0 4px 8px rgba(248, 248, 248, 0.5); /* Optionally, add a box shadow for visual separation */
 }
+
 
 .title {
   font-size: 48px;
@@ -18,6 +23,9 @@
   margin-left: 10px;
 }
 
+.title:hover {
+  color: var(--color-primary);
+}
 
 .menuBtn {
   display: none;
@@ -40,9 +48,7 @@
 }
 
 .menuItems a:hover {
-  font-size: 25px;
   color: var(--color-primary);
-  text-decoration: none;
 }
 
 .logo {
@@ -50,9 +56,11 @@
   height: auto;
 }
 
-.logo, .title {
+.logo,
+.title {
   vertical-align: middle;
-  display:inline-block;;
+  display: inline-block;
+  ;
 }
 
 @media screen and (max-width: 830px) {
@@ -83,11 +91,9 @@
     gap: 13px;
     border-radius: 10px;
     background: rgb(35, 109, 25);
-    background: linear-gradient(
-      0deg,
-      rgba(15, 71, 18, 0.2) 0%,
-      rgb(101, 172, 73) 100%
-    );
+    background: linear-gradient(0deg,
+        rgba(15, 71, 18, 0.2) 0%,
+        rgb(101, 172, 73) 100%);
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
   }
@@ -101,8 +107,8 @@
     width: 25%;
   }
 
-  .title{
+  .title {
     font-size: 28px;
   }
-  
+
 }

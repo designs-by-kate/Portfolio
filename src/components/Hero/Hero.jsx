@@ -21,20 +21,16 @@ export const Hero = () => {
               <a href="mailto:katepospiech@hotmail.com" className={styles.contactBtn}>Contact Me</a>
             </li>
             <li className={styles.link}>
-              <img src={getImageUrl("hero/email.png")} alt="Email icon"className={styles.email}/>
-              <a href="mailto:katepospiech@hotmail.com"></a>
+              <a href="mailto:katepospiech@hotmail.com"><img src={getImageUrl("hero/email.png")} alt="Email icon"className={styles.email}/></a>
             </li>
             <li className={styles.link}>
-              <img src={getImageUrl("hero/linkedin.png")} alt="LinkedIn icon" />
-              <a href="https://www.linkedin.com/in/kate-pospiech-3b8846290/"></a>
+              <a href="https://www.linkedin.com/in/kate-pospiech-3b8846290/"><img src={getImageUrl("hero/linkedin.png")} alt="LinkedIn icon" /></a>
             </li>
             <li className={styles.link}>
-              <img src={getImageUrl("hero/githubWhite.png")} alt="Github icon" />
-              <a href="https://github.com/designs-by-kate"></a>
+              <a href="https://github.com/designs-by-kate"><img src={getImageUrl("hero/githubWhite.png")} alt="Github icon" /></a>
             </li>
             <li className={styles.link}>
-              <img src={getImageUrl("hero/cv.png")} alt="CV icon" />
-              <a href="https://docs.google.com/document/d/1Jlj1cOzSmFUTdpT2a4lPsVtqIV6q6tRQ4vbNOztjJhI/edit?usp=sharing"></a>
+              <a href="CV.pdf" target="_blank" rel="noopener noreferrer"><img src={getImageUrl("hero/cv.png")} alt="CV icon" /></a>
             </li>
           </ul>
         </div>

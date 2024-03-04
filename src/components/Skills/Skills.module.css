@@ -2,7 +2,8 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 79px;
+  margin-top: 200px;
+  margin-bottom: 50px;
   margin-left: 10%;
   margin-right: 10%;
 }
@@ -65,6 +66,7 @@
 @media screen and (max-width: 830px) {
   .container {
     text-align: center;
+    margin-top: 120px;
   }
 
   .content {

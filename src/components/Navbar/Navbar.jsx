@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { NavLink } from 'react-router-dom';
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
@@ -32,17 +33,60 @@ export const Navbar = () => {
           className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
           onClick={() => setMenuOpen(false)}
         >
-          <li>
-            <a href="#about">About</a>
+          <li className="nav-item">
+            <NavLink
+              to="/about"
+              end
+              className={({ isActive }) =>
+                isActive ? 'nav-link active' : 'nav-link'
+              }
+            >
+              About
+            </NavLink>
           </li>
-          <li>
-            <a href="#experience">Experience</a>
+          <li className="nav-item">
+            <NavLink
+              to="/skills"
+              end
+              className={({ isActive }) =>
+                isActive ? 'nav-link active' : 'nav-link'
+              }
+            >
+              Skills
+            </NavLink>
           </li>
-          <li>
-            <a href="#projects">Projects</a>
+          <li className="nav-item">
+            <NavLink
+              to="/experience"
+              end
+              className={({ isActive }) =>
+                isActive ? 'nav-link active' : 'nav-link'
+              }
+            >
+              Experience
+            </NavLink>
           </li>
-          <li>
-            <a href="#about">Contact</a>
+          <li className="nav-item">
+            <NavLink
+              to="/projects"
+              end
+              className={({ isActive }) =>
+                isActive ? 'nav-link active' : 'nav-link'
+              }
+            >
+              Projects
+            </NavLink>
+          </li>
+          <li className="nav-item">
+            <NavLink
+              to="/contact"
+              end
+              className={({ isActive }) =>
+                isActive ? 'nav-link active' : 'nav-link'
+              }
+            >
+              Contact
+            </NavLink>
           </li>
         </ul>
       </div>
