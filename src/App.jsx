@@ -1,3 +1,6 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
 import styles from "./App.module.css";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Hero } from "./components/Hero/Hero";
@@ -9,15 +12,20 @@ import { Skills } from "./components/Skills/Skills";
 
 function App() {
   return (
-    <div className={styles.App}>
+    <Router>
+      <div className={styles.App}>
       <Navbar />
+      <Routes>
+        <Route path="/" element={<Hero />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/skills" element={<Skills />} />
+        <Route path="/experience" element={<Experience />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
       <Hero />
-      <About />
-      <Skills />
-      <Experience />
-      <Projects />
-      <Contact />
-    </div>
+      </div>
+    </Router>
   );
 }
 
