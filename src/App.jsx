@@ -18,14 +18,13 @@ function App() {
       <div className={styles.App}>
       <Navbar />
       <Routes>
-        <Route path="" element={<Hero />} />
-        <Route path="/Portfolio/about" element={<About />} />
+        <Route path="/Portfolio/" element={<Hero />} />
+        <Route path="/about" element={<About />} />
         <Route path="/skills" element={<Skills />} />
         <Route path="/experience" element={<Experience />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      <Hero />
       </div>
     </Router>
   );
