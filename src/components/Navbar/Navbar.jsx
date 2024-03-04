@@ -3,11 +3,12 @@ import { NavLink } from 'react-router-dom';
 
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
+import closeIcon from "../../../assets/nav/closeIcon.png"
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const closeIcon = getImageUrl("nav/closeIcon.png");
+  // const closeIcon = getImageUrl("nav/closeIcon.png");
   const menuIcon = getImageUrl("nav/menuIcon.png");
 
   return (
@@ -17,7 +18,7 @@ export const Navbar = () => {
           src={getImageUrl("nav/LogoGreen.png")}
           alt="Logo"
         />
-        <a className={styles.title} href="/">
+        <a className={styles.title} href="/Portfolio/">
           Portfolio
         </a>
       </div>
