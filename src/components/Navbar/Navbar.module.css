@@ -39,6 +39,7 @@
   display: flex;
   gap: 47px;
   list-style: none;
+  padding-right: 100px;
 }
 
 .menuItems a {
