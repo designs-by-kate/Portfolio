@@ -45,6 +45,7 @@ Welcome to my portfolio website! This one-page site showcases my skills, experie
 ![image](https://github.com/designs-by-kate/Kate-Portfolio/assets/146155569/9d1785af-7aaf-43cf-ae5a-5995908eb326)
 
     Mobile view:
+    This webpage is designed to be fully responsive, ensuring an optimal viewing experience across various screen sizes. The layout has been carefully crafted to adapt seamlessly, providing a user-friendly interface. Check out the included mobile view to see how the website adjusts for smaller screens.
 
 ![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/c3ccbfec-b941-49f6-9bed-0dd9586cc01d)
 ![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/e3eaf699-7fe5-403d-b093-707fbc549a7c)
