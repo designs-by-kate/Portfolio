@@ -61,6 +61,7 @@ Welcome to my portfolio website! This one-page site showcases my skills, experie
 - CSS
 - REACT
 - GIMP
+- EMAILJS
 
 ## License
   This project is licensed under the MIT License.
