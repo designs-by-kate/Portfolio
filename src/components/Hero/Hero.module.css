@@ -73,26 +73,23 @@
 .heroImg {
   width: 150%;
   z-index: 1;
-
-  box-shadow: 0 0 50px rgba(255, 255, 255, 0.5); 
-  border-radius: 100%; 
-  overflow: hidden; 
-
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
+  box-shadow: 0 0 50px rgba(255, 255, 255, 0.5);
+  border-radius: 100%;
+  overflow: hidden;
+  animation-name: spiral;
+  animation-duration: 5s;
+  animation-iteration-count: 1;
   animation-timing-function: ease-in-out;
 }
 
-@keyframes floating {
+@keyframes spiral {
   0% {
-    transform: translate(0, 0px);
-  }
-  50% {
-    transform: translate(0, 10px);
+    opacity: 0;
+    transform: rotate(0deg) scale(0);
   }
   100% {
-    transform: translate(0, -0px);
+    opacity: 1;
+    transform: rotate(360deg) scale(1);
   }
 }
 

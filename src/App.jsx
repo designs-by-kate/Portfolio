@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import { HashRouter as Router, Route, Routes, useLocation, Navigate } from 'react-router-dom';
 
-
 import styles from "./App.module.css";
 import { Navbar } from "./components/Navbar/Navbar";
 import { Hero } from "./components/Hero/Hero";
@@ -10,7 +9,6 @@ import { Experience } from "./components/Experience/Experience";
 import { Projects } from "./components/Projects/Projects";
 import { Contact } from "./components/Contact/Contact";
 import { Skills } from "./components/Skills/Skills";
-// import { NavLink } from 'react-router-dom';
 
 const validRoutes = ['/Portfolio/', '/about', '/skills', '/experience', '/projects', '/contact'];
 
