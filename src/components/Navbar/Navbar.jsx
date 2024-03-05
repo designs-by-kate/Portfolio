@@ -9,9 +9,6 @@ import menuIcon from "../../assets/nav/menuIcon.png"
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // const closeIcon = getImageUrl("nav/closeIcon.png");
-  //const menuIcon = getImageUrl("nav/menuIcon.png");
-
   return (
     <nav className={styles.navbar}>
       <div>
