@@ -39,8 +39,8 @@ Welcome to my portfolio website! This one-page site showcases my skills, experie
 ![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/fbf93010-ffe8-4ec1-8699-659e4f494185)
 
     Contact
-    In the contact section, you'll find links to my email, LinkedIn, and GitHub profiles for easy networking and collaboration.
-![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/d0e504cb-27c4-4c59-b153-f88c0cc86dbc)
+    In the contact section, you'll find links to my email, LinkedIn, and GitHub profiles for easy networking and collaboration. Additionally, there is a contact form to facilitate sending messages easily.
+![image](https://github.com/designs-by-kate/Kate-Portfolio/assets/146155569/9d1785af-7aaf-43cf-ae5a-5995908eb326)
 
     Mobile view:
 
@@ -50,8 +50,7 @@ Welcome to my portfolio website! This one-page site showcases my skills, experie
 ![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/e7641234-0f2f-484c-9f0c-0b69299fa7fc)
 ![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/6d49dfc6-544b-46b9-b87f-8a8a46b2e260)
 ![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/7905ff09-a495-4ded-b3b9-68a506fa55d8)
-![image](https://github.com/designs-by-kate/Portfolio/assets/146155569/8ed24477-55a5-4039-84ea-bee18aa35d2b)
-
+![image](https://github.com/designs-by-kate/Kate-Portfolio/assets/146155569/2a234a1e-cccb-4242-b4c5-ce06c596942e)
 
 
 ## Technologies
