@@ -1,7 +1,31 @@
 [
+  {
+    "id": 1,
+    "title": "Bunnies World",
+    "description": "This project is a React-based website for Bunnies World, featuring four main pages: Home, Diet, Play, and Bath. The website is designed to be fully responsive, adapting to various screen sizes from desktop to tablet and mobile devices.",
+    "imageSrc": "projects/FigmaProject.png",
+    "demo": "https://designs-by-kate.github.io/figma-project/#/home",
+    "source": "https://github.com/designs-by-kate/figma-project",
+    "projectType": "Web/Mobile App",
+    "role": "sole author",
+    "dependencies": [],
+    "skills": [" React", "Figma", "CSS", "HTML"]
+  },
+  {
+    "id": 2,
+    "title": "Movie Game",
+    "description": "The Movie Guessing Game is a web application designed to entertain users by testing their knowledge of movies. The game presents players with a series of questions, each containing clues related to a specific movie. Players must guess the correct movie title based on the clues provided within a time limit.",
+    "imageSrc": "projects/MovieGame.jpg",
+    "demo": "https://designs-by-kate.github.io/MovieGame/",
+    "source": "https://github.com/designs-by-kate/MovieGame",
+    "projectType": "Web/Mobile App",
+    "role": "group project",
+    "dependencies": [],
+    "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
+  },
     {
-      "id": 1,
-      "title": "Bootstrap-Portfolio",
+      "id": 3,
+      "title": "Bootstrap Portfolio",
       "description": "This website showcases various aspects of my life, including my adventures, projects, professional development, passions, and values. Feel free to explore the different sections and get to know more about me.",
       "imageSrc": "projects/BootstrapPortfolio.jpg",
       "demo": "https://designs-by-kate.github.io/Bootstrap-Portfolio/",
@@ -12,8 +36,8 @@
       "skills": [" HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 2,
-      "title": "Password-Generator",
+      "id": 4,
+      "title": "Password Generator",
       "description": "The Password Generator is a dynamic and secure application that allows users to generate strong and random passwords based on their specified criteria. It prompts the user for password length and character types, ensuring a personalized and secure password.",
       "imageSrc": "projects/PasswordGenerator.jpg",
       "demo": "https://designs-by-kate.github.io/Password-Generator/",
@@ -24,8 +48,8 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 3,
-      "title": "Code-Quiz",
+      "id": 5,
+      "title": "Code Quiz",
       "description": "This project is a simple coding quiz challenge that tests the user's knowledge of programming. The quiz presents a series of questions with multiple-choice answers, and the user must choose the correct option. The quiz is timed, and incorrect answers result in a time penalty.",
       "imageSrc": "projects/QuizGame.jpg",
       "demo": "https://designs-by-kate.github.io/Code-Quiz/",
@@ -36,8 +60,8 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 4,
-      "title": "Work-Day-Scheduler",
+      "id": 6,
+      "title": "Work Day Scheduler",
       "description": "This is a simple Daily Planner app that allows users to organize their tasks and schedule for the day. It includes features such as displaying the current day, creating time blocks for standard business hours, dynamically updating HTML/CSS for time blocks, and saving tasks to local storage",
       "imageSrc": "projects/WorkDayScheduler.jpg",
       "demo": "https://designs-by-kate.github.io/Work-Day-Scheduler/",
@@ -48,8 +72,8 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 5,
-      "title": "Weather-Dashboard",
+      "id": 7,
+      "title": "Weather Dashboard",
       "description": "This is a simple web application that allows users to check the current weather and 5-day forecast for a given city.",
       "imageSrc": "projects/WeatherDashboard.jpg",
       "demo": "https://designs-by-kate.github.io/Weather-Dashboard/",
@@ -60,20 +84,8 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
     },
     {
-      "id": 6,
-      "title": "Movie-Game",
-      "description": "The Movie Guessing Game is a web application designed to entertain users by testing their knowledge of movies. The game presents players with a series of questions, each containing clues related to a specific movie. Players must guess the correct movie title based on the clues provided within a time limit.",
-      "imageSrc": "projects/MovieGame.jpg",
-      "demo": "https://designs-by-kate.github.io/MovieGame/",
-      "source": "https://github.com/designs-by-kate/MovieGame",
-      "projectType": "Web/Mobile App",
-      "role": "group project",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
-    },
-    {
-      "id": 7,
-      "title": "Team-Profile-Generator",
+      "id": 8,
+      "title": "Team Profile Generator",
       "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
       "imageSrc": "projects/TeamProfileGenerator.jpg",
       "demo": "https://designs-by-kate.github.io/Team-Profile-Generator/output/team.html",
@@ -84,8 +96,8 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " Node.js "]
     },
     {
-      "id": 8,
-      "title": "README-Generator",
+      "id": 9,
+      "title": "README Generator",
       "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
       "imageSrc": "projects/ReadmeGenerator.jpg",
       "demo": "https://github.com/designs-by-kate/README-Generator",
