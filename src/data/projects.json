@@ -9,10 +9,22 @@
     "projectType": "Web/Mobile App",
     "role": "sole author",
     "dependencies": [],
-    "skills": [" React", "Figma", "CSS", "HTML"]
+    "skills": [" React ", " Figma ", " CSS ", " HTML ", " GIMP "]
   },
   {
     "id": 2,
+    "title": "Recipe Finder App",
+    "description": "The Recipe Finder App allows users to search for recipes, save their favorite meals, and review them later.",
+    "imageSrc": "projects/RecipeFinder.png",
+    "demo": "https://recipeefinder.netlify.app/#/RecipeFinder/",
+    "source": "https://github.com/designs-by-kate/RecipeFinder",
+    "projectType": "Web/Mobile App",
+    "role": "sole author",
+    "dependencies": [],
+    "skills": [" React ", " Netlify ", " Axios ", " API ", " CSS ", " HTML ", " LocalStorage ", " GIMP "]
+  },
+  {
+    "id": 3,
     "title": "Movie Game",
     "description": "The Movie Guessing Game is a web application designed to entertain users by testing their knowledge of movies. The game presents players with a series of questions, each containing clues related to a specific movie. Players must guess the correct movie title based on the clues provided within a time limit.",
     "imageSrc": "projects/MovieGame.jpg",
@@ -24,7 +36,7 @@
     "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
   },
     {
-      "id": 3,
+      "id": 4,
       "title": "Bootstrap Portfolio",
       "description": "This website showcases various aspects of my life, including my adventures, projects, professional development, passions, and values. Feel free to explore the different sections and get to know more about me.",
       "imageSrc": "projects/BootstrapPortfolio.jpg",
@@ -36,7 +48,7 @@
       "skills": [" HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Password Generator",
       "description": "The Password Generator is a dynamic and secure application that allows users to generate strong and random passwords based on their specified criteria. It prompts the user for password length and character types, ensuring a personalized and secure password.",
       "imageSrc": "projects/PasswordGenerator.jpg",
@@ -48,7 +60,7 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Code Quiz",
       "description": "This project is a simple coding quiz challenge that tests the user's knowledge of programming. The quiz presents a series of questions with multiple-choice answers, and the user must choose the correct option. The quiz is timed, and incorrect answers result in a time penalty.",
       "imageSrc": "projects/QuizGame.jpg",
@@ -60,7 +72,7 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Work Day Scheduler",
       "description": "This is a simple Daily Planner app that allows users to organize their tasks and schedule for the day. It includes features such as displaying the current day, creating time blocks for standard business hours, dynamically updating HTML/CSS for time blocks, and saving tasks to local storage",
       "imageSrc": "projects/WorkDayScheduler.jpg",
@@ -72,7 +84,7 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Weather Dashboard",
       "description": "This is a simple web application that allows users to check the current weather and 5-day forecast for a given city.",
       "imageSrc": "projects/WeatherDashboard.jpg",
@@ -84,7 +96,7 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Team Profile Generator",
       "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
       "imageSrc": "projects/TeamProfileGenerator.jpg",
@@ -96,7 +108,7 @@
       "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " Node.js "]
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "README Generator",
       "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
       "imageSrc": "projects/ReadmeGenerator.jpg",

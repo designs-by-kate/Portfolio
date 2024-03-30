@@ -8,10 +8,6 @@
         "imageSrc": "skills/css.png"
     },
     {
-        "title": "Bootstrap",
-        "imageSrc": "skills/bootstrap.png"
-    },
-    {
         "title": "JS",
         "imageSrc": "skills/js.png"
     },
@@ -26,6 +22,14 @@
     {
         "title": "React",
         "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "skills/figma.png"
     },
     {
         "title": "Blender",
