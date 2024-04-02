@@ -9,7 +9,13 @@
     "projectType": "Web/Mobile App",
     "role": "sole author",
     "dependencies": [],
-    "skills": [" React ", " Figma ", " CSS ", " HTML ", " GIMP "]
+    "skills": [
+      " React ",
+      " Figma ",
+      " CSS ",
+      " HTML ",
+      " GIMP "
+    ]
   },
   {
     "id": 2,
@@ -21,7 +27,16 @@
     "projectType": "Web/Mobile App",
     "role": "sole author",
     "dependencies": [],
-    "skills": [" React ", " Netlify ", " Axios ", " API ", " CSS ", " HTML ", " LocalStorage ", " GIMP "]
+    "skills": [
+      " React ",
+      " Netlify ",
+      " Axios ",
+      " API ",
+      " CSS ",
+      " HTML ",
+      " LocalStorage ",
+      " GIMP "
+    ]
   },
   {
     "id": 3,
@@ -33,103 +48,133 @@
     "projectType": "Web/Mobile App",
     "role": "group project",
     "dependencies": [],
-    "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap ",
+      " API "
+    ]
   },
   {
     "id": 4,
-    "title": "HangMan Game",
-    "description": "This project is a hangman game implemented in React with TypeScript, originally based on the tutorial provided by WebDevSimplified. The primary goal of this project was to learn TypeScript while customizing the styling of the hangman game.",
-    "imageSrc": "projects/hangman.png",
-    "demo": "https://game-hang-man-app.netlify.app/",
-    "source": "https://github.com/designs-by-kate/hangman",
-    "projectType": " Web/Mobile App",
+    "title": "Bootstrap Portfolio",
+    "description": "This website showcases various aspects of my life, including my adventures, projects, professional development, passions, and values. Feel free to explore the different sections and get to know more about me.",
+    "imageSrc": "projects/BootstrapPortfolio.jpg",
+    "demo": "https://designs-by-kate.github.io/Bootstrap-Portfolio/",
+    "source": "https://github.com/designs-by-kate/Bootstrap-Portfolio",
+    "projectType": " Web App",
     "role": "sole author",
     "dependencies": [],
-    "skills": [" React ", " TypeScript "," HTML ", " CSS "]
+    "skills": [
+      " HTML ",
+      " CSS ",
+      " Bootstrap "
+    ]
   },
-    {
-      "id": 5,
-      "title": "Bootstrap Portfolio",
-      "description": "This website showcases various aspects of my life, including my adventures, projects, professional development, passions, and values. Feel free to explore the different sections and get to know more about me.",
-      "imageSrc": "projects/BootstrapPortfolio.jpg",
-      "demo": "https://designs-by-kate.github.io/Bootstrap-Portfolio/",
-      "source": "https://github.com/designs-by-kate/Bootstrap-Portfolio",
-      "projectType": " Web App",
-      "role": "sole author",
-      "dependencies": [],
-      "skills": [" HTML ", " CSS ", " Bootstrap "]
-    },
-    {
-      "id": 6,
-      "title": "Password Generator",
-      "description": "The Password Generator is a dynamic and secure application that allows users to generate strong and random passwords based on their specified criteria. It prompts the user for password length and character types, ensuring a personalized and secure password.",
-      "imageSrc": "projects/PasswordGenerator.jpg",
-      "demo": "https://designs-by-kate.github.io/Password-Generator/",
-      "source": "https://github.com/designs-by-kate/Password-Generator",
-      "projectType": "Web/Mobile App",
-      "role": "sole author",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
-    },
-    {
-      "id": 7,
-      "title": "Code Quiz",
-      "description": "This project is a simple coding quiz challenge that tests the user's knowledge of programming. The quiz presents a series of questions with multiple-choice answers, and the user must choose the correct option. The quiz is timed, and incorrect answers result in a time penalty.",
-      "imageSrc": "projects/QuizGame.jpg",
-      "demo": "https://designs-by-kate.github.io/Code-Quiz/",
-      "source": "https://github.com/designs-by-kate/Code-Quiz",
-      "projectType": "Web/Mobile App",
-      "role": "sole author",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
-    },
-    {
-      "id": 8,
-      "title": "Work Day Scheduler",
-      "description": "This is a simple Daily Planner app that allows users to organize their tasks and schedule for the day. It includes features such as displaying the current day, creating time blocks for standard business hours, dynamically updating HTML/CSS for time blocks, and saving tasks to local storage",
-      "imageSrc": "projects/WorkDayScheduler.jpg",
-      "demo": "https://designs-by-kate.github.io/Work-Day-Scheduler/",
-      "source": "https://github.com/designs-by-kate/Work-Day-Scheduler",
-      "projectType": "Web/Mobile App",
-      "role": "sole author",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap "]
-    },
-    {
-      "id": 9,
-      "title": "Weather Dashboard",
-      "description": "This is a simple web application that allows users to check the current weather and 5-day forecast for a given city.",
-      "imageSrc": "projects/WeatherDashboard.jpg",
-      "demo": "https://designs-by-kate.github.io/Weather-Dashboard/",
-      "source": "https://github.com/designs-by-kate/Weather-Dashboard",
-      "projectType": "Web/Mobile App",
-      "role": "sole author",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " API "]
-    },
-    {
-      "id": 10,
-      "title": "Team Profile Generator",
-      "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
-      "imageSrc": "projects/TeamProfileGenerator.jpg",
-      "demo": "https://designs-by-kate.github.io/Team-Profile-Generator/output/team.html",
-      "source": "https://github.com/designs-by-kate/Team-Profile-Generator",
-      "projectType": "Mobile App",
-      "role": "sole author/ group project",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " Node.js "]
-    },
-    {
-      "id": 11,
-      "title": "README Generator",
-      "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
-      "imageSrc": "projects/ReadmeGenerator.jpg",
-      "demo": "https://github.com/designs-by-kate/README-Generator",
-      "source": "https://github.com/designs-by-kate/README-Generator",
-      "projectType": "Mobile App",
-      "role": "sole author/ group project",
-      "dependencies": [],
-      "skills": [" JavaScript ", " HTML ", " CSS ", " Bootstrap ", " Node.js "]
-    }
-  ]
-  
+  {
+    "id": 5,
+    "title": "Password Generator",
+    "description": "The Password Generator is a dynamic and secure application that allows users to generate strong and random passwords based on their specified criteria. It prompts the user for password length and character types, ensuring a personalized and secure password.",
+    "imageSrc": "projects/PasswordGenerator.jpg",
+    "demo": "https://designs-by-kate.github.io/Password-Generator/",
+    "source": "https://github.com/designs-by-kate/Password-Generator",
+    "projectType": "Web/Mobile App",
+    "role": "sole author",
+    "dependencies": [],
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap "
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Code Quiz",
+    "description": "This project is a simple coding quiz challenge that tests the user's knowledge of programming. The quiz presents a series of questions with multiple-choice answers, and the user must choose the correct option. The quiz is timed, and incorrect answers result in a time penalty.",
+    "imageSrc": "projects/QuizGame.jpg",
+    "demo": "https://designs-by-kate.github.io/Code-Quiz/",
+    "source": "https://github.com/designs-by-kate/Code-Quiz",
+    "projectType": "Web/Mobile App",
+    "role": "sole author",
+    "dependencies": [],
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap "
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Work Day Scheduler",
+    "description": "This is a simple Daily Planner app that allows users to organize their tasks and schedule for the day. It includes features such as displaying the current day, creating time blocks for standard business hours, dynamically updating HTML/CSS for time blocks, and saving tasks to local storage",
+    "imageSrc": "projects/WorkDayScheduler.jpg",
+    "demo": "https://designs-by-kate.github.io/Work-Day-Scheduler/",
+    "source": "https://github.com/designs-by-kate/Work-Day-Scheduler",
+    "projectType": "Web/Mobile App",
+    "role": "sole author",
+    "dependencies": [],
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap "
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Weather Dashboard",
+    "description": "This is a simple web application that allows users to check the current weather and 5-day forecast for a given city.",
+    "imageSrc": "projects/WeatherDashboard.jpg",
+    "demo": "https://designs-by-kate.github.io/Weather-Dashboard/",
+    "source": "https://github.com/designs-by-kate/Weather-Dashboard",
+    "projectType": "Web/Mobile App",
+    "role": "sole author",
+    "dependencies": [],
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap ",
+      " API "
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Team Profile Generator",
+    "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
+    "imageSrc": "projects/TeamProfileGenerator.jpg",
+    "demo": "https://designs-by-kate.github.io/Team-Profile-Generator/output/team.html",
+    "source": "https://github.com/designs-by-kate/Team-Profile-Generator",
+    "projectType": "Mobile App",
+    "role": "sole author/ group project",
+    "dependencies": [],
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap ",
+      " Node.js "
+    ]
+  },
+  {
+    "id": 10,
+    "title": "README Generator",
+    "description": "Team-Profile-Generator is a Node.js command-line application designed to simplify the process of creating a professional-looking webpage showcasing your software engineering team. It caters to managers who need a quick and efficient way to generate HTML pages containing essential information about team members.",
+    "imageSrc": "projects/ReadmeGenerator.jpg",
+    "demo": "https://github.com/designs-by-kate/README-Generator",
+    "source": "https://github.com/designs-by-kate/README-Generator",
+    "projectType": "Mobile App",
+    "role": "sole author/ group project",
+    "dependencies": [],
+    "skills": [
+      " JavaScript ",
+      " HTML ",
+      " CSS ",
+      " Bootstrap ",
+      " Node.js "
+    ]
+  }
+]
